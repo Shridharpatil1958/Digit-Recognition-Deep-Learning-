@@ -76,5 +76,3 @@ Displays random handwritten digit images with their true labels.
 This helps in visually understanding where the model performs well and where it fails.
 
 ---
-
-## 📁 Repository Structure
